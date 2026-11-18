@@ -1,8 +1,8 @@
 # StockControl - Sistema de Gerenciamento de Produtos
 
-Feito por:
-Carlos Eduardo Ávila de Sousa
-Fernanda da Silva Viana Brito
+**Feito por:**
+- Carlos Eduardo Ávila de Sousa
+- Fernanda da Silva Viana Brito
 
 ## Sobre o projeto
 
