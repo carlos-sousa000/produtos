@@ -1,5 +1,9 @@
 # StockControl - Sistema de Gerenciamento de Produtos
 
+Feito por:
+Carlos Eduardo Ávila de Sousa
+Fernanda da Silva Viana Brito
+
 ## Sobre o projeto
 
 O StockControl é um sistema web desenvolvido para facilitar o cadastro e o gerenciamento de produtos de lojas. A aplicação permite organizar informações dos produtos, controlar quantidades em estoque e realizar operações de cadastro, edição e exclusão.
