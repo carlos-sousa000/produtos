@@ -54,4 +54,3 @@ Configure o usuário e a senha no arquivo `src/main/resources/application.proper
 5. Ajuste o usuário e a senha do banco no `application.properties`.
 6. Execute a classe `SistemaprodutosApplication`.
 7. Acesse `http://localhost:8080/produtos`.
-# produtos
